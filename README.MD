@@ -1,6 +1,6 @@
 # RSA Algorithm (  Encryption - Decryption )
 
-Following project contains [Python3](https://docs.python.org/3/) implementation of RSA Algorithm (Encryption - Decryption).
+Following project contains [Python3](https://docs.python.org/3/) implementation of [RSA Algorithm (Encryption - Decryption)](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/) .
 
 
 
