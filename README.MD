@@ -1,6 +1,6 @@
 # RSA Algorithm (  Encryption - Decryption )
 
-Following project contains [Python3](https://docs.python.org/3/) implementation of [RSA Algorithm (Encryption - Decryption)](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/) .
+The following project contains [Python3](https://docs.python.org/3/) implementation of [RSA Algorithm (Encryption - Decryption)](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/).
 
 
 
@@ -18,10 +18,6 @@ Following project contains [Python3](https://docs.python.org/3/) implementation 
         C = (P ^ e) % n
         P = (C ^ d) % n
 ```
-
-
-> “Talk is cheap. Show me the code.” 
-> ― Linus Torvalds
 
 
 
