@@ -5,6 +5,10 @@ The following project contains [Python3](https://docs.python.org/3/) implementat
 
 
 ## Explanation :
+
+![description](https://user-images.githubusercontent.com/48678280/87449188-223c5b00-c5fd-11ea-8b21-b1afbbb12bc5.jpg)
+
+
 ```
 1.  Take two big prime numbers p, q.
     Calculate the values of : 
@@ -18,6 +22,8 @@ The following project contains [Python3](https://docs.python.org/3/) implementat
         C = (P ^ e) % n
         P = (C ^ d) % n
 ```
+
+
 
 
 
